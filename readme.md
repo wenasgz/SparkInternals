@@ -40,7 +40,7 @@ We start from the creation of a Spark job, and then discuss its execution. Final
 
 ## Other languages
 
-Chinese Version is at [markdown/](https://github.com/JerryLead/SparkInternals/tree/master/markdown).
+Chinese Version is at [markdown/](https://github.com/wenasgz/SparkInternals/tree/master/markdown).
 Thai Version is at [markdown/thai](https://github.com/JerryLead/SparkInternals/tree/master/markdown/thai)
 
 ## How to read this document
